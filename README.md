@@ -8,10 +8,10 @@ Adept at collaborating with cross-functional teams to deliver data-driven soluti
 
 ---
 ### 📊 Languages & Tools
-<img align="left" alt="Java" width="30px" style="padding-right-10px;" ![tableau-icon-svgrepo-com](https://github.com/user-attachments/assets/944044da-6898-4e39-9f3e-a3edfd189784)>
-<img align="left" alt="Java" width="30px" style="padding-right-10px;" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />>
-<img align="left" alt="Java" width="30px" style="padding-right-10px;" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />>
-<img align="left" alt="Java" width="30px" style="padding-right-10px;" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />>
-
+<img align="left" alt="Java" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
 
 
