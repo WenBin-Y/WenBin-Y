@@ -1,6 +1,6 @@
 ![Banff-Wallpaper landscape](https://github.com/user-attachments/assets/9f265fe0-dfd7-4274-84c1-fa3ae071a9b8)
 
-## Hello, I'm WenBin! 👋
+## Hello, I'm WenBin (文斌)! 👋
 
 **`Business Analyst`**
 Proactive, analytical and meticulous with a proven track record of leveraging data storytelling and visualization to drive actionable insights and enhance strategic decision-making. 
