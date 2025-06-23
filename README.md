@@ -14,4 +14,5 @@ Adept at collaborating with cross-functional teams to deliver data-driven soluti
 <img align="left" alt="Java" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
 
-
+---
+![](https://leetcard.y.wenbin/Y_WenBin??theme=unicorn,ext=activity)
