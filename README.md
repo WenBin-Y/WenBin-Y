@@ -13,7 +13,9 @@ Adept at collaborating with cross-functional teams to deliver data-driven soluti
 <img align="left" alt="Java" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+<br />
 
 
 ---
+### 👨🏼‍💻 Leetcode Statistics
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Y_WenBin?theme=unicorn&font=Roboto&ext=activity)
