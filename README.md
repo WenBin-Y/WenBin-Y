@@ -16,4 +16,4 @@ Adept at collaborating with cross-functional teams to deliver data-driven soluti
 
 
 ---
-![Leetcode Stats](https://leetcard.y.wenbin/Y_WenBin?theme=unicorn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Y_WenBin?theme=unicorn&font=Roboto&ext=activity)
