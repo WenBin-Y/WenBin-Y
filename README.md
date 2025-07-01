@@ -6,6 +6,8 @@
 Proactive, analytical and meticulous with a proven track record of leveraging data storytelling and visualization to drive actionable insights and enhance strategic decision-making. 
 Adept at collaborating with cross-functional teams to deliver data-driven solutions that enhance operational efficiency and customer experience.
 
+![](https://komarev.com/ghpvc/?username=wenbin-y&color=395273&style=plastic)
+
 ---
 ### 📊 Languages & Tools
 <img align="left" alt="Java" img src="https://github.com/user-attachments/assets/5e9a6773-d830-449a-8082-b2eb87935b95" width="30" height="30">
