@@ -39,4 +39,4 @@ Adept at collaborating with cross-functional teams to deliver data-driven soluti
 
 #
 ### 👨🏼‍💻 Leetcode Statistics
-![Leetcode Stats](https://leetcard.jacoblin.cool/Y_WenBin?theme=unicorn&font=Roboto&ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/WenBin_Y?theme=unicorn&font=Roboto&ext=activity)
