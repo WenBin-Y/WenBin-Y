@@ -25,13 +25,14 @@ Adept at collaborating with cross-functional teams to deliver data-driven soluti
 <img align="left" alt="Kaggle" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" />
 <img align="left" alt="Jupyter" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="Databricks" width="30px" height="30px" src="https://github.com/user-attachments/assets/21d4ed78-8236-499e-968f-8bae01b1a0e8" />
 
 <br>
 <br>
 
 #
 ### 🏅 Professional Certificates
-<img align="left" alt="Dataiku Academy logo" src="https://github.com/user-attachments/assets/2f2362d8-f59f-4e53-b665-f496abd1ed66" width="172.8" height="60">
+<img align="left" alt="Dataiku" img src="https://github.com/user-attachments/assets/c941fea5-ae98-4db7-ba42-81e67d72a578" width="60" height="60">
 <a href="https://www.credly.com/badges/15489463-9a83-4acf-b7b5-07934596f72c/public_url">
   <img align="left" alt="Java" style="padding-right-20px;" img src="https://github.com/user-attachments/assets/a3ef612b-9075-4212-ae8f-8de69ba8bd9b" width="60" height="60">
 </a>
