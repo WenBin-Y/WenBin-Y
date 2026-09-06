@@ -44,6 +44,9 @@ A digital adventuerer with a passion for data and AI, I create Machine Learning 
 </p>
 <br>
 
+### 📊 Data Visualisation Spotlight
+[![Tableau Public](https://img.shields.io/badge/Tableau_Public-Profile-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/y.wenbin/vizzes)
+
 ---
 ### 🏅 Professional Certificates
 <img align="left" alt="Dataiku" img src="https://github.com/user-attachments/assets/c941fea5-ae98-4db7-ba42-81e67d72a578" width="60" height="60">
@@ -60,6 +63,6 @@ A digital adventuerer with a passion for data and AI, I create Machine Learning 
 <br>
 <br>
 
-#
+---
 ### 👨🏼‍💻 Leetcode Statistics
 ![Leetcode Stats](https://leetcard.jacoblin.cool/WenBin_Y?theme=unicorn&font=Roboto&ext=activity)
