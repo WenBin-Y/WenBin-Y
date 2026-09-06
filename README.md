@@ -16,28 +16,35 @@ A digital adventuerer with a passion for data and AI, I create Machine Learning 
 ![](https://komarev.com/ghpvc/?username=wenbin-y&color=395273&style=plastic)
 
 ---
-### 🖥️ Programming Languages
-<img align="left" alt="Python" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="RStudio" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
-<img align="left" alt="SQL" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 
-<br>
-<br>
+### 🛠️ Tech Stack & Architecture
 
-### 📊 Software Platforms
-<img align="left" alt="Dataiku" img src="https://github.com/user-attachments/assets/c941fea5-ae98-4db7-ba42-81e67d72a578" width="30" height="30">
-<img align="left" alt="Tableau" img src="https://github.com/user-attachments/assets/5e9a6773-d830-449a-8082-b2eb87935b95" width="30" height="30">
-<img align="left" alt="Google Cloud Platform" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-<img align="left" alt="Figma" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img align="left" alt="Kaggle" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" />
-<img align="left" alt="Jupyter" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right-10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="Databricks" width="30px" height="30px" src="https://github.com/user-attachments/assets/21d4ed78-8236-499e-968f-8bae01b1a0e8" />
-
-<br>
+**Programming Languages:**  
+<p align="left">
+  <img alt="Python" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="SQL" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img alt="RStudio" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
+</p>
 <br>
 
-#
+**AI/MLOps & Cloud Platforms:**  
+<p align="left">
+  <img alt="Dataiku" src="https://github.com/user-attachments/assets/c941fea5-ae98-4db7-ba42-81e67d72a578" width="36" height="36" style="padding-right:10px;" />
+  <img alt="Databricks" src="https://github.com/user-attachments/assets/21d4ed78-8236-499e-968f-8bae01b1a0e8" width="36" height="36" style="padding-right:10px;" />
+  <img alt="Google Cloud Platform" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+  <img alt="Jupyter" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+  <img alt="Kaggle" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" />
+</p>
+<br>
+
+**Visualization & Product Design:**  
+<p align="left">
+  <img alt="Tableau" src="https://github.com/user-attachments/assets/5e9a6773-d830-449a-8082-b2eb87935b95" width="36" height="36" style="padding-right:10px;" />
+  <img alt="Figma" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+</p>
+<br>
+
+---
 ### 🏅 Professional Certificates
 <img align="left" alt="Dataiku" img src="https://github.com/user-attachments/assets/c941fea5-ae98-4db7-ba42-81e67d72a578" width="60" height="60">
 <a href="https://www.credly.com/badges/15489463-9a83-4acf-b7b5-07934596f72c/public_url">
