@@ -2,9 +2,16 @@
 
 ## **Hello, I'm WenBin (文斌)! 👋**
 
-**`Business Analyst`**
+**`Sales Engineer @ Dataiku`** | **`Tableau Ambassador & User Group Co-Lead`**
+
 Proactive, analytical and meticulous with a proven track record of leveraging data storytelling and visualization to drive actionable insights and enhance strategic decision-making. 
 Adept at collaborating with cross-functional teams to deliver data-driven solutions that enhance operational efficiency and customer experience.
+
+A digital adventuerer with a passion for data and AI, I create Machine Learning and Agentic AI architectures that generates business values. Am currently designing enterprise AI Proof of Concepts (POCs), delivering technical enablement, and architecting data solutions across various industries.
+
+- 🔭 **Focus Areas:** Agentic AI, MLOps, Business Analytics & Data Storytelling
+- 💬 **Ask Me About:** Dataiku, Tableau, Agentic Workflows, MLOps.
+- 🌐 **Connect w Me @:** [LinkedIn](https://www.linkedin.com/in/y-wenbin/) | [Tableau Public](https://public.tableau.com/app/profile/y.wenbin/vizzes)
 
 ![](https://komarev.com/ghpvc/?username=wenbin-y&color=395273&style=plastic)
 
