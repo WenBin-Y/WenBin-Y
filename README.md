@@ -44,8 +44,9 @@ A digital adventuerer with a passion for data and AI, I create Machine Learning 
 </p>
 <br>
 
-### 📊 Data Visualisation Spotlight
+**📊 Data Visualisation Spotlight**
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-Profile-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/y.wenbin/vizzes)
+<br>
 
 ---
 ### 🏅 Professional Certificates
@@ -59,8 +60,6 @@ A digital adventuerer with a passion for data and AI, I create Machine Learning 
 <a href="https://www.credly.com/badges/2e4a4718-4c8e-4d75-bd82-b534a9779c25/public_url">
   <img align="left" alt="Java" style="padding-right-20px;" img src="https://github.com/user-attachments/assets/e13eb882-d8a3-47f8-921a-03d9cb7b083c" width="60" height="60">
 </a>
-
-<br>
 <br>
 
 ---
