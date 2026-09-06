@@ -20,6 +20,7 @@ A digital adventuerer with a passion for data and AI, I create Machine Learning 
 ### 🛠️ Tech Stack & Architecture
 
 **Programming Languages:**  
+
 <p align="left">
   <img alt="Python" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="SQL" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
@@ -28,6 +29,7 @@ A digital adventuerer with a passion for data and AI, I create Machine Learning 
 <br>
 
 **AI/MLOps & Cloud Platforms:**  
+
 <p align="left">
   <img alt="Dataiku" src="https://github.com/user-attachments/assets/c941fea5-ae98-4db7-ba42-81e67d72a578" width="36" height="36" style="padding-right:10px;" />
   <img alt="Databricks" src="https://github.com/user-attachments/assets/21d4ed78-8236-499e-968f-8bae01b1a0e8" width="36" height="36" style="padding-right:10px;" />
@@ -38,6 +40,7 @@ A digital adventuerer with a passion for data and AI, I create Machine Learning 
 <br>
 
 **Visualization & Product Design:**  
+
 <p align="left">
   <img alt="Tableau" src="https://github.com/user-attachments/assets/5e9a6773-d830-449a-8082-b2eb87935b95" width="36" height="36" style="padding-right:10px;" />
   <img alt="Figma" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
@@ -45,11 +48,13 @@ A digital adventuerer with a passion for data and AI, I create Machine Learning 
 <br>
 
 **📊 Data Visualisation Spotlight**
+
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-Profile-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/y.wenbin/vizzes)
 <br>
 
----
+
 ### 🏅 Professional Certificates
+
 <img align="left" alt="Dataiku" img src="https://github.com/user-attachments/assets/c941fea5-ae98-4db7-ba42-81e67d72a578" width="60" height="60">
 <a href="https://www.credly.com/badges/15489463-9a83-4acf-b7b5-07934596f72c/public_url">
   <img align="left" alt="Java" style="padding-right-20px;" img src="https://github.com/user-attachments/assets/a3ef612b-9075-4212-ae8f-8de69ba8bd9b" width="60" height="60">
@@ -60,8 +65,9 @@ A digital adventuerer with a passion for data and AI, I create Machine Learning 
 <a href="https://www.credly.com/badges/2e4a4718-4c8e-4d75-bd82-b534a9779c25/public_url">
   <img align="left" alt="Java" style="padding-right-20px;" img src="https://github.com/user-attachments/assets/e13eb882-d8a3-47f8-921a-03d9cb7b083c" width="60" height="60">
 </a>
-<br>
+<br><br>
 
 ---
 ### 👨🏼‍💻 Leetcode Statistics
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/WenBin_Y?theme=unicorn&font=Roboto&ext=activity)
